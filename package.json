@@ -1,15 +1,18 @@
 {
   "name": "nodejs-http-rest-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJS web server with core built-in HTTP module",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "http-server",
+    "rest-api"
+  ],
+  "author": "Alhaqi",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.20"
